@@ -1,7 +1,7 @@
 <template>
   <Icon
     type="plus-circle"
-    class="cursor-pointer"
+    class="cursor-pointer ddddddddddddd"
     v-if="field.max === 0 || field.children.length < field.max"
     hover-color="success"
     @click="addChild"
