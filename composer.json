@@ -1,5 +1,5 @@
 {
-    "name": "noreengul/laravel-nova-array-issue",
+    "name": "noreengithub/laravel-nova-array-issue",
     "description": "A Laravel Nova package that allows you to create/update/delete nested related fields from a parent form.",
     "keywords": [
         "laravel",
